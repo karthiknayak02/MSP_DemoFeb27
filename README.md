@@ -4,7 +4,7 @@
 
 
 ## Face API 
-The cloud-based Face API provides developers with access to advanced face algorithms. Microsoft Face algorithms enable face attribute detection and face recognition. Learn how to analyze content in different ways with quickstarts, tutorials, and samples.
+The cloud-based Face API provides developers with access to advanced face algorithms. Microsoft Face algorithms enable face attribute detection and face recognition. 
 
 ## What features the Azure Face API include?
 - **Face detection**
