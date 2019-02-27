@@ -28,3 +28,6 @@ The cloud-based Face API provides developers with access to advanced face algori
 - **Follow along workshop**
   #### OR
   *[Completed Workshop Public Notebook](https://notebooks.azure.com/karthik02/projects/facedectectioncompleted/html/FaceAPI.ipynb)*
+
+## Workshop pembroke vs cardigan Corgi Clasification Demo
+- *[CNN using TfLearn](https://notebooks.azure.com/karthik02/projects/DogClassification/html/TestLab.ipynb)*
