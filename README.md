@@ -1,5 +1,8 @@
 # Microsoft Student Partner - Workshop February 27th 
 
+## *[Cognitive Services Directory](https://azure.microsoft.com/en-us/services/cognitive-services/directory/)*
+
+
 ## Face API 
 The cloud-based Face API provides developers with access to advanced face algorithms. Microsoft Face algorithms enable face attribute detection and face recognition. Learn how to analyze content in different ways with quickstarts, tutorials, and samples.
 
